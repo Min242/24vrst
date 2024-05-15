@@ -1,0 +1,258 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.14f1 (eff2de9070d8) revision 15725278'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Professional' Language: 'ko' Physical Memory: 65323 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker8
+-projectPath
+C:/Users/MinKim/Desktop/varjo/24/24vrst/data_collection
+-logFile
+Logs/AssetImportWorker8.log
+-srvPort
+61851
+Successfully changed project path to: C:/Users/MinKim/Desktop/varjo/24/24vrst/data_collection
+C:/Users/MinKim/Desktop/varjo/24/24vrst/data_collection
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [83764] Host "[IP] 143.248.6.91 [Port] 0 [Flags] 2 [Guid] 2759651116 [EditorId] 2759651116 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-O8QBO0M) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [83764] Host "[IP] 143.248.6.91 [Port] 0 [Flags] 2 [Guid] 2759651116 [EditorId] 2759651116 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-O8QBO0M) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 31 workers.
+Refreshing native plugins compatible for Editor in 9.00 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.14f1 (eff2de9070d8)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/MinKim/Desktop/varjo/24/24vrst/data_collection/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4070 Ti (ID=0x2782)
+    Vendor:   NVIDIA
+    VRAM:     12010 MB
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56548
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.14f1/Editor/Data/PlaybackEngines/MetroSupport/UnityEditor.UWP.Extensions.dll
+Registered in 0.008439 seconds.
+- Loaded All Assemblies, in  0.256 seconds
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Android Extension - Scanning For ADB Devices 240 ms
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.455 seconds
+Domain Reload Profiling: 710ms
+	BeginReloadAssembly (76ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (45ms)
+	LoadAllAssembliesAndSetupDomain (104ms)
+		LoadAssemblies (75ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (102ms)
+			TypeCache.Refresh (100ms)
+				TypeCache.ScanAssembly (90ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (455ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (417ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (316ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (65ms)
+			ProcessInitializeOnLoadMethodAttributes (31ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.535 seconds
+Refreshing native plugins compatible for Editor in 3.53 ms, found 9 plugins.
+Native extension for UWP target not found
+Native extension for WindowsStandalone target not found
+Native extension for Android target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+- Finished resetting the current domain, in  0.462 seconds
+Domain Reload Profiling: 994ms
+	BeginReloadAssembly (113ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (3ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (22ms)
+	RebuildNativeTypeToScriptingClass (7ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (360ms)
+		LoadAssemblies (264ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (161ms)
+			TypeCache.Refresh (137ms)
+				TypeCache.ScanAssembly (120ms)
+			ScanForSourceGeneratedMonoScriptInfo (17ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (462ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (337ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (18ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (55ms)
+			ProcessInitializeOnLoadAttributes (239ms)
+			ProcessInitializeOnLoadMethodAttributes (16ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 4.96 ms, found 9 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4637 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 64 unused Assets / (1.2 MB). Loaded Objects now: 5095.
+Memory consumption went from 174.8 MB to 173.6 MB.
+Total: 3.457300 ms (FindLiveObjects: 0.241500 ms CreateObjectMapping: 0.125400 ms MarkObjects: 2.517100 ms  DeleteObjects: 0.571700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/TransformHandle.cs: c0fd01a09635ab99b3857bc1410135f3 -> 9fa12fccec051640dce2a365bb3a33d5
+  custom:scripting/monoscript/fileName/ExplodingItem.cs: 75f71c4df841cdbe2484c31a187615ef -> ebb1194ad61272497a63a969dd5718ff
+  custom:scripting/monoscript/fileName/TurntableVisuals.cs: f7504e1959bef2dadd79b1198e93c637 -> f17065ec815b9fa07c48a61fd4ab555f
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/TransformTranslationHandle.cs: 33e174ea3f97c1f60f5fe22f2980f60b -> c334b04f23864894cdc89d17ddb89f24
+  custom:scripting/monoscript/fileName/InertiaPostProcessProvider.cs: 57447436eaf557490ec73677879dff2b -> c3f8b65b3e0ba0f4766358d56452b36b
+  custom:scripting/monoscript/fileName/CycleHandPairs.cs: da863b62e4c6b8711d900abb4fa19c63 -> d0ebbae7d23670059cca50e98ab3a6f4
+  custom:scripting/monoscript/fileName/ProjectionPostProcessProvider.cs: 056af87e898de7b566108b30986d315f -> e8966d01dad1c9b448f25e16f9351dd1
+  custom:scripting/monoscript/fileName/TransformTool.cs: 9466089aace191777b0f028f28df170f -> 5bb7d8d0c300e9de1450fe79043715a9
+  custom:scripting/monoscript/fileName/TransformRotationHandle.cs: 95c286187199cc19be630305449986b4 -> 2ea32f8fe215d6020145628eb8b91b4b
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:scripting/monoscript/fileName/LineBetweenTransforms.cs: 786fa5504a07b1ea044079fdc07a562f -> 583abf8673510526003bdf5ac842fa0e
+  custom:scripting/monoscript/fileName/MagneticObject.cs: 57a6799196c95b3e99e65a547a66c288 -> 9a81df2947702e8c649137a07a9fe162
+  custom:scripting/monoscript/fileName/PullCordVisuals.cs: 4dda09dae08cd460b0e311c8828cb0d9 -> fda1b7f3d6c8c023d91bb47aaf129085
+  custom:scripting/monoscript/fileName/PoseRecorderExampleManager.cs: 33b2a0608e733252e8ce131be38cb1d6 -> ea3dedcb10f8fce675ffd283509b6f99
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/monoscript/fileName/SimpleGrabBallFeedback.cs: 74f05a4f42ac70347ac69fec94c0ac8c -> 97a921e951cdcc83d01a33b951586360
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/callGaze.cs: 8141a45ea1c625c5a80ac02933f18acc -> 5bd022ada9a5454c3cde4afb68f9b52c
+  custom:scripting/monoscript/fileName/prac.cs: e86cc5c8b9f339e4b7b1414b83c0c55c -> 5aa986179401a159cc9c1b93ef91d5a7
+  custom:scripting/monoscript/fileName/SampleDependencies.cs: 26e28d7f990031254d6580e4e6900867 -> 505389f54cd116c01a30ce1d3b1f55dc
+  custom:scripting/monoscript/fileName/ThickRibbonRenderer.cs: 62e8572946c18f731946110eb729a3a3 -> 48293f3048682433e080b7c9aca2e1f8
+  custom:scripting/monoscript/fileName/SimpleRendererUtil.cs: db91579fe1ee7e97d8fc9bd2a7971cd3 -> 742137270fe725fb3a9fc592f6ce8287
+  custom:scripting/monoscript/fileName/PinchStrokeProcessor.cs: 0ce7eac15200637ed1286ba6cb23e89d -> d3131cc1cc76909c6ed3f5c0274dbf61
+  custom:scripting/monoscript/fileName/WorkstationBehaviourExample.cs: 2746014fea7943903351570fac6b6d9a -> 602108c5f29ef060c8b0cba7c0df3a9f
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:scripting/monoscript/fileName/SimpleTransformUtil.cs: 6b3c90e9f358cdf5276aeea8114ed05a -> 4fc93e0eecca5cae65cf7741ceb04f67
+  custom:scripting/monoscript/fileName/MovePoseExample.cs: 822b0cfe7e64fceb2b7b829a01212849 -> ea8b9c7ab4bc02794b63e36af17f0d7c
+  custom:scripting/monoscript/fileName/EditorURL.cs: 9b1eb2549634b53b2624202581965da7 -> 96d89d672b184495920c1f2e3921bce4
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:scripting/monoscript/fileName/PaintCursor.cs: bdbc3c38c8903b4e87d6f9e76c906028 -> 018b0c65379678e4d20ee0344da404bd
+  custom:scripting/monoscript/fileName/RectToroid.cs: 9cf08ebd36c09247be582e22b7cf7067 -> 37abbb2ae69e2abb6e76549bdb8acdc8
+  custom:scripting/monoscript/fileName/SimpleAnchorFeedback.cs: 1b37766e75990b2ed5c89c9b2dfe474a -> 401d460be078dda0b548a3d2492369f5
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/HandGrabHighlighter.cs: 67019aa6abf138c7ba0e3f393bf7b67a -> 72ba074ac1a4e8ba5c465e84bb4942ac
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/PhysicalHandsHandMenu.cs: b8708bf01fdb681ef2ce0fd7bb19f699 -> 5912f49dcb0b68623315e3c11194d73f
+  custom:scripting/monoscript/fileName/SimpleScaleUtil.cs: 933de0221971a5786f7602f1ad989d82 -> 47eec7cbba31b6a1c2c9acc539c197e1
+  custom:scripting/monoscript/fileName/PoseShowcaseManager.cs: 2b83fa553fd836aa25a1cbea3c20458c -> 846893aa28726e9a0cfa15674e2e1fc8
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/PhysicalHandsRocket.cs: d8788045a62260a86a3732b9ffc1873b -> 58c2aa8b642187050729b96b4b658656
+  custom:scripting/monoscript/fileName/SimpleMatchAnchorScaleAndState.cs: e3423027eb42e890a167c84200ad67fe -> 6050dc623b805055220e36eb05bfeb56
+  custom:scripting/monoscript/fileName/TransformHandleEditor.cs: 3e0680fc95c2994b853b79fd755fe350 -> 94b134f6eda83c63ec82ab71d4b16352
+  custom:scripting/monoscript/fileName/SpawnObjectAtPosition.cs: 3ba091a7e78ed6aa2d6b8ea02f22040c -> 2b80c3e1346b33b26008a770bcc257e6
+  custom:scripting/monoscript/fileName/PullCord.cs: dbc012e9a6fab4998143c17dfa37ba70 -> a0eaac97e130087ec0782e2d2d4ca534
+  custom:scripting/monoscript/fileName/Magnet.cs: 650b8b3d80e5e72563b58ffd7f375183 -> 271a1402bda057060bb5ef92047e6df7
+  custom:scripting/monoscript/fileName/URPSampleDependencyImporter.cs: 6749b52484efaff0db348b3d4265d2c0 -> d6b86f4d80c8d45298907cf2ad9f8393
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/GettingStartedExampleManager.cs: 6ed3106ec0991be50f4fe23651e8fda4 -> b0853ec7b87c9758439e70863addbc35
+  custom:scripting/monoscript/fileName/Cannon.cs: ca797b3815888ca5633c45e18789958c -> 1f1807f1ae44f34602f3236bd40cd384
+  custom:scripting/monoscript/fileName/ScaleOnEnable.cs: 8926eed336a23f7239558817c8cd8c08 -> 9713f9b0b7605edc2a4ea2fbb26c51b3
+  custom:scripting/monoscript/fileName/Turntable.cs: 465b66406dadd10846ecabf3e0503120 -> 46ee0176ff5ea8e7e838c646d0405774
+  custom:scripting/monoscript/fileName/ExplodingItemController.cs: cccf4087a9663296d948ca1aa6a7c3e2 -> 763a7caf1b293d10e9984316c2042b91
+  custom:scripting/monoscript/fileName/PullCordHandle.cs: 2171f1520d10d7f2135ca4015b5ab6c5 -> d5641622dbca677be63d5b692cdbe5c1
+  custom:scripting/monoscript/fileName/PhysicalHandsChangeColoursOnHandEvents.cs: 2a936dff9b549e66f89bc9a3b816397c -> 8e9f4de331cb3016e3ef3069e2b8790e
+  custom:scripting/monoscript/fileName/StrokeProcessor.cs: 143a840fe566bd037b87863afedf8644 -> 7c7662a70a4485bff71b8817ab809f63
+  custom:scripting/monoscript/fileName/SimpleInteractionEmission.cs: 96510f3d5ebe76d83ee0d48c5d2f70de -> 92fb0a05e2cd9f9caa8359301a2ce4b6
+  custom:scripting/monoscript/fileName/SimpleInteractionGlow.cs: 32886fc6c3952c8cd05ed62f52006af8 -> e086e1b55826c0aebcf7a545edd53741
+  custom:scripting/monoscript/fileName/SceneReset.cs: 7e9d8d8b0865c98a8e3797bc062e3213 -> 86c9e8594c95f01ce406c548a7ee34fa
+  custom:scripting/monoscript/fileName/XRSceneHeadOrigin.cs: 1cd07a07fd4f1b3067d70117985e7984 -> 79f3e43e1f4162b94c02dddbc57b080a
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/monoscript/fileName/PoseDetectorUIText.cs: 844e4e508d7bca1628f052f91f388485 -> 8ce271d0665dfc63620c672e6dd4b85f
+  custom:scripting/monoscript/fileName/ObjectResetter.cs: fa50056b805aee9b59cb15bcc06c0728 -> 3a03f270abb8645023e8a477b3fa8f5a
+  custom:scripting/monoscript/fileName/SwapGraspExample.cs: 747a7617e3354eeb9760178dceb74e20 -> 8434cdc4ebf45807fe152365e7a99071
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

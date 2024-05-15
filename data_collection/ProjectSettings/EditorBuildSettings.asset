@@ -6,4 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes: []
   m_configObjects:
+    Varjo.XR.Settings: {fileID: 11400000, guid: d8da630128e4b1145b5f7e9eabbf6ee1, type: 2}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 04c2f6605dbd38a4ab0ce6a66854579e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 22c893c6f85bf8a4498615d3b86c75d0, type: 2}
